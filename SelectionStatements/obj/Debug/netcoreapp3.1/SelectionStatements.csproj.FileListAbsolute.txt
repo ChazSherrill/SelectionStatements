@@ -1,0 +1,12 @@
+/Users/chazsherrill/repos/SelectionStatements/SelectionStatements/bin/Debug/netcoreapp3.1/SelectionStatements.deps.json
+/Users/chazsherrill/repos/SelectionStatements/SelectionStatements/bin/Debug/netcoreapp3.1/SelectionStatements.runtimeconfig.json
+/Users/chazsherrill/repos/SelectionStatements/SelectionStatements/bin/Debug/netcoreapp3.1/SelectionStatements.runtimeconfig.dev.json
+/Users/chazsherrill/repos/SelectionStatements/SelectionStatements/bin/Debug/netcoreapp3.1/SelectionStatements.dll
+/Users/chazsherrill/repos/SelectionStatements/SelectionStatements/bin/Debug/netcoreapp3.1/SelectionStatements.pdb
+/Users/chazsherrill/repos/SelectionStatements/SelectionStatements/obj/Debug/netcoreapp3.1/SelectionStatements.csprojAssemblyReference.cache
+/Users/chazsherrill/repos/SelectionStatements/SelectionStatements/obj/Debug/netcoreapp3.1/SelectionStatements.AssemblyInfoInputs.cache
+/Users/chazsherrill/repos/SelectionStatements/SelectionStatements/obj/Debug/netcoreapp3.1/SelectionStatements.AssemblyInfo.cs
+/Users/chazsherrill/repos/SelectionStatements/SelectionStatements/obj/Debug/netcoreapp3.1/SelectionStatements.csproj.CoreCompileInputs.cache
+/Users/chazsherrill/repos/SelectionStatements/SelectionStatements/obj/Debug/netcoreapp3.1/SelectionStatements.dll
+/Users/chazsherrill/repos/SelectionStatements/SelectionStatements/obj/Debug/netcoreapp3.1/SelectionStatements.pdb
+/Users/chazsherrill/repos/SelectionStatements/SelectionStatements/obj/Debug/netcoreapp3.1/SelectionStatements.genruntimeconfig.cache
